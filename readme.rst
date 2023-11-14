@@ -10,4 +10,5 @@ Admin, SubAdmin
 *Encrypted segment 3 url
 
 
-![image](https://raw.githubusercontent.com/vhynts/vhymaster/master/assets/1screenshots/1.png)
+![1](https://github.com/vhynts/vhymaster/assets/116292309/5f9d5741-c789-4584-a1cb-692595e93f44)
+
