@@ -10,4 +10,4 @@ Admin, SubAdmin
 *Encrypted segment 3 url
 
 
-![Alt text](/assets/1screenshots/1.png?raw=true "Optional Title")
+![Alt text](/../vhymaster/assets/1screenshots/1.png?raw=true "Optional Title")
