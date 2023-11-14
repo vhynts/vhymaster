@@ -9,4 +9,5 @@ Admin, SubAdmin
 
 *Encrypted segment 3 url
 
-![Alt text](https://github.com/vhynts/vhymaster/blob/master/assets/1screenshots/1.png "Login page")
+
+![Alt text](/assets/1screenshots/1.png?raw=true "Optional Title")
